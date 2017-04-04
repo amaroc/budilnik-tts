@@ -44,6 +44,9 @@ import datetime
 app = QApplication(sys.argv)
 w = loadUi("ibud.ui")
 
+"""
+VERSION 2 TEST
+"""
 
 class MP3_alarm:
     print("MP3_alarm class says: Time is seting to ")# + hour + " " + minutes)
